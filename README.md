@@ -99,7 +99,7 @@ lindex mycolor [インデックス番号]
 一覧: smembers [キー]
 ```
 
-##Sorted Set
+## Sorted Set
 ```
 追加：zadd [キー] [スコア] [バリュー]
 削除：zrem [キー]  [バリュー]
